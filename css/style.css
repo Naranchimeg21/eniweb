@@ -141,9 +141,9 @@ html, *{
    grid-template-columns: repeat(4, 1fr);
    gap: 25px;
    width: 100%;
-   overflow-x: auto;
-   overflow-y: hidden ;
-   height: 450px;
+   /* /* overflow-x: auto; */
+   /* overflow-y: hidden ; */
+   /* height: 450px; */ */
 }
 
 .news__content{
